@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+#buttons{
+    align-content: center;
+}
+
+#table{
+    width: 1000px;
+    height: 450px;
+}
+
+.table-responsive{
+    display: grid;
+    place-items: center;
+    height: 100%;
+}
